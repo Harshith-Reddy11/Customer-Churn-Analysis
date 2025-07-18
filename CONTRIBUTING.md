@@ -49,7 +49,7 @@ To begin contributing:
   - `.DS_Store`
   - `.pyc`, `.pkl`, `.log`, or virtual environments
 - Ensure all files follow naming conventions.
-- Respect the `.gitignore` rules.
+
 
 ### ✍️ Commit Message Guidelines
 
