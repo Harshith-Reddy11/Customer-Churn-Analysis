@@ -40,7 +40,7 @@ To begin contributing:
 - Use meaningful variable and function names.
 - Keep code modular and avoid duplication.
 - Explain steps clearly using Markdown cells in notebooks.
-- Restart the kernel and clear output before committing Jupyter notebooks.
+- Restart the kernel and clear the output before committing Jupyter notebooks.
 
 ### 📁 Files and Repository Hygiene
 
