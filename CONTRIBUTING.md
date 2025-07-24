@@ -37,7 +37,7 @@ To begin contributing:
 ### 📦 Code & Notebooks
 
 - Follow Python’s [PEP8](https://peps.python.org/pep-0008/) style guide.
-- Use meaningful variable and function names.
+- Use meaningful variables and function names.
 - Keep code modular and avoid duplication.
 - Explain steps clearly using Markdown cells in notebooks.
 - Restart the kernel and clear the output before committing Jupyter notebooks.
